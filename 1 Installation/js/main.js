@@ -1,7 +1,7 @@
 var Person = function(config) {
     this.name = config.name;
     this.age = config.age;
-    this.occupation = congif.occupation;
+    this.occupation = config.occupation;
 
 }
 
